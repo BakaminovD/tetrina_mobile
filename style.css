@@ -20,6 +20,10 @@ video{
     margin-left: 20px;
 }
 
+.niz {
+    margin-bottom: 50px;
+}
+
 .stop{
   /*background: url(label/fon.png) repeat-x;*/
   background: rgb(255,255,255);
